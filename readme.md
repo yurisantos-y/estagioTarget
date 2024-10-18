@@ -4,11 +4,11 @@ Este repositório foi criado para apresentar minha candidatura à vaga de **Est�
 
 ## Resultados
 
-![Resultado Exercicio 01](imagens/resultEx01.png)
+![Resultado Exercicio 01](images/resultEx01.png)
 
-![Resultado Exercicio 02](imagens/resultEx02.png)
+![Resultado Exercicio 02](images/resultEx02.png)
 
-![Resultado Exercicio 03](imagens/resultEx03.png)
+![Resultado Exercicio 03](images/resultEx03.png)
 
 
 ## Tecnologia Utilizada
