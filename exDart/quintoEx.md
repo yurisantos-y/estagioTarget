@@ -1,1 +1,5 @@
-## Determino a sequência dos interruptores da esquerda para a direita como A, B e C. Após isso, ligo o interruptor A e deixo ligado por alguns minutos. Depois de alguns minutos, desligo o interruptor A e ligo o interruptor B. Logo em seguida, entro na sala e faço a seguinte análise: a lâmpada que estiver acesa é do interruptor B, a lâmpada que estiver quente é do interruptor A, e a que estiver fria e apagada é do interruptor C.
+## Identifico os interruptores da esquerda para a direita como A, B e C. Em seguida, ligo o interruptor A e o deixo ligado por alguns minutos. Depois, desligo o interruptor A e ligo o interruptor B. Após isso, entro na sala e observo a lâmpada: 
+
+- Se a lâmpada estiver acesa, o interruptor correspondente é o B.
+- Se a lâmpada estiver apagada, mas quente, o interruptor correspondente é o A.
+- Se a lâmpada estiver apagada e fria, o interruptor correspondente é o C. 
